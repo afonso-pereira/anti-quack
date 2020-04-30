@@ -4,7 +4,7 @@
 
 ## Anti Bad USB Shell Script
 
-#### Disables all usb ports off to protect you from a BadUsb atack
+#### Disables all usb ports to protect you from a BadUsb atack
 
 ### __TODO:__
 
