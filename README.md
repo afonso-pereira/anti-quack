@@ -1,17 +1,18 @@
-# anti-quack
+# H1 anti-quack
 
+![Anti-Quack Logo](https://thumbs2.imgbox.com/0b/c9/tnyNI28K_t.png)
 
 Anti Bad USB Shell Script
 
-On development (30/04/2020)
+Disables all usb ports off to protect you from a BadUsb atack
 
-Disables all usb ports off when a new usb device is detected
+# H5 __TODO:__
 
 
-TODO:
-Disable only the port where the new device is plugged in;
+    -Disable only the port where the new device is plugged in;
 
-Add an authentication method:
+
+    -Add an authentication method:
 
 
                               -iserial
