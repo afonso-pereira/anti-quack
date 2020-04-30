@@ -2,9 +2,9 @@
 
 ![Anti-Quack Logo](https://thumbs2.imgbox.com/0b/c9/tnyNI28K_t.png)
 
-##Anti Bad USB Shell Script
+## Anti Bad USB Shell Script
 
-####Disables all usb ports off to protect you from a BadUsb atack
+#### Disables all usb ports off to protect you from a BadUsb atack
 
 ### __TODO:__
 
