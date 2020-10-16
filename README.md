@@ -23,7 +23,7 @@
                               
                               -yubikey
                               
- ###__UPDATE 1:__
+ ### __UPDATE 1:__
     -Decided on the authentication method:
                               -The code will be using http authentication, utilizing a webserver hosted on an arduino nano v3 with an ethernet shield.
                                 Why http and not https?
